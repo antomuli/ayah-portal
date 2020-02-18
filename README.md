@@ -1,5 +1,5 @@
 # ayah-portal
-ayah-portal is webapp that matches potential househelps/nannies to households/employers
+ayah is webapp that matches potential househelps/nannies to households/employers
 
 ## Authors
 1. Margaret Irungu
